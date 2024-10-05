@@ -1,2 +1,1 @@
-# disaster-reconstruction-report
-# disastersmart
+# DisasterSmart: Emergency Responder Training Platform
